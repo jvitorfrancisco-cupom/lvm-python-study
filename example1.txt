@@ -1,0 +1,27 @@
+Comprovante de Entrega
+Número: 44451
+
+Descrição Produto TROCO: R$ 0,00
+Ite Qtd Descrição V.Uni V.Tot
+7897664171718-SABONETE ALBANY 1X 2.29 2,29
+
+7897664171718-ALGODAO 85G - 3X 0.50 1.50
+
+7891575329039-SORVETE 1X 1.49 1,49
+GELADINNV MORNGO 90G - UN [1]
+
+7891575329039-SORVETE 1% 1.49 1,49
+GELADINNV MORNGO 90G - UN [2] t
+
+Total:6,77
+
+Total Desconto:1,00
+Total Acréscimos: 1,00
+Total Líquido:6,77
+
+23/03/2024 13:57:20
+Atendente: CAIXA
+
+Vendedor: 1 - CAIXA
+
+Cliente: CONSUMIDOR 1
